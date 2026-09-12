@@ -19,8 +19,7 @@ BSc Electronics (Hons) + CS Minor | Delhi University
 
 ## 🚀 Live Demo
 
-👉 [Click here to view live dashboard](https://your-app.streamlit.app)
-
+👉 https://smart-manufacturing-intelligence.streamlit.app/
 ---
 
 ## ✨ Features
@@ -86,7 +85,7 @@ streamlit run app.py
 
 ### 4. Open in Browser
 ```
-http://localhost:8501
+https://smart-manufacturing-intelligence.streamlit.app/
 ```
 
 ---
@@ -167,19 +166,6 @@ This system can save manufacturing companies:
 | High downtime costs | Reduced unplanned downtime |
 | Manual monitoring | Automated 24/7 monitoring |
 | No financial tracking | ROI calculator included |
-
----
-
-## 📸 Screenshots
-
-### Live Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Risk Distribution
-![Risk](screenshots/risk_chart.png)
-
-### Machine Status Table
-![Status](screenshots/machine_status.png)
 
 ---
 
