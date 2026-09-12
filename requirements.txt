@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+scikit-learn
+xgboost
+streamlit-autorefresh
+openpyxl
+imbalanced-learn
